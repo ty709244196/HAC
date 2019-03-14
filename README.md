@@ -1,2 +1,1 @@
-# HAC
-CS470 project
+# java heartbeat over TCP
